@@ -1,5 +1,5 @@
-# watch-guard
-multiple env deployment 
+# Watch Guard
+Kubernetes: Orchestrate Node.js (micro)services along with React App
 
 # Requirements
 
